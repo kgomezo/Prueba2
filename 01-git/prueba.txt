@@ -2,3 +2,5 @@
 
 Este es una prueba de archivo de texto
 Ahora este es la segunda linea que hago, segunda version
+Estoy aprendiendooo, ya puedo subir los nuevos cambios al repositorio en
+github
